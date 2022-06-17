@@ -1,6 +1,7 @@
 {
   "models": [
     "Saten/saten-01",
+    "Shifuku/shifuku-01",
     [
       "ShizukuTalk/shizuku-48",
       "ShizukuTalk/shizuku-pajama"
@@ -8,6 +9,7 @@
   ],
   "messages": [
     "Saten来啦~",
+    "Shifuku~ Shifuku~",
     "Shizuku Talk ！这里是 Shizuku ~"
   ]
 }
