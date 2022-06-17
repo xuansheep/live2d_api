@@ -1,0 +1,13 @@
+{
+    "models": [
+        "Saten/saten-01",
+        [
+            "ShizukuTalk/shizuku-48",
+            "ShizukuTalk/shizuku-pajama"
+        ]
+    ],
+    "messages": [
+        "Saten",
+        "Shizuku Talk ！这里是 Shizuku ~"
+    ]
+}
